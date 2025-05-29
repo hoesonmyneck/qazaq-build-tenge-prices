@@ -22,7 +22,7 @@ const Hero = () => {
               Получить консультацию
               <ArrowRight className="ml-2 w-5 h-5" />
             </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-800 text-lg px-8 py-4">
+            <Button size="lg" variant="outline" className="border-white text-white bg-white text-blue-800 text-lg px-8 py-4">
               Наши проекты
             </Button>
           </div>
